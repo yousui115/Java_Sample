@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "yousui115.sandbox:sample_block" }
+    }
+}
